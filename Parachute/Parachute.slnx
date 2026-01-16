@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Parachute/Parachute.vcxproj" Id="8ec50954-9a28-4ca0-b6a1-83c88a6eb52f" />
+</Solution>
